@@ -1,0 +1,1 @@
+{"uuid":"00b2b8de-3533-4060-9d89-85083d5f4db0","name":"Scenario Outline: Verify POST request with invalid base URL and valid request body","children":["79f5a939-a6e3-40dc-b7d8-b7d34daab8fe"],"befores":[],"afters":[],"start":1690381775773,"stop":1690381776179}

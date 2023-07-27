@@ -1,0 +1,1 @@
+{"uuid":"3c905b97-b517-4514-9d87-12d1a22c0a84","name":"Scenario Outline: Invalid - A user attempts to retrieve information using an invalid user ID","children":["8c3057aa-8f0e-48d3-9bf2-ae0f6038010f"],"befores":[],"afters":[],"start":1690464917409,"stop":1690464917460}

@@ -1,0 +1,1 @@
+{"uuid":"443d3712-d3f7-42ee-ab02-c39e2740da88","name":"Scenario Outline: Verify POST request with valid URL and without one mandatory field","children":["dc240a8e-0576-48a7-800b-f796e3647937"],"befores":[],"afters":[],"start":1690381778229,"stop":1690381778401}

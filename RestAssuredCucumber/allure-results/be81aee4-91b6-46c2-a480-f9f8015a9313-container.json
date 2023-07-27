@@ -1,0 +1,1 @@
+{"uuid":"be81aee4-91b6-46c2-a480-f9f8015a9313","name":"Scenario Outline: Verify GET request to retrieve single batch data with invalid batch Name","children":["cd149e31-3346-4ac1-ad54-fffb51cffb94"],"befores":[],"afters":[],"start":1690410403226,"stop":1690410403374}

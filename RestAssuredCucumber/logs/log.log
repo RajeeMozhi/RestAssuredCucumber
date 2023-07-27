@@ -1,0 +1,224 @@
+[INFO ] 2023-07-27 09:34:52,206 BaseClass.user_sets_authorization_to_no_auth() - Authorization is set as No Auth
+[INFO ] 2023-07-27 09:34:52,253 BaseClass.user_sets_a_post_request_to_valid_base_url_and_valid_end_point() - User sets a POST Request to valid base URL and valid end point
+[INFO ] 2023-07-27 09:34:55,188 BaseClass.user_sends_a_post_request_to_create_and_grade_new_assignment_by_an_active_admin_from_and() - An Active Admin creates and grades a new assignment 
+[INFO ] 2023-07-27 09:34:55,213 BaseClass.the_response_status_code_should_be_created() - Assignment created successfully
+[INFO ] 2023-07-27 09:34:55,310 BaseClass.user_sets_authorization_to_no_auth() - Authorization is set as No Auth
+[INFO ] 2023-07-27 09:34:55,317 BaseClass.user_sets_a_post_request_to_valid_base_url_and_valid_end_point() - User sets a POST Request to valid base URL and valid end point
+[INFO ] 2023-07-27 09:34:56,333 BaseClass.user_sends_a_post_request_to_create_assignment_by_active_admin_and_grade_by_an_active_staff_from_and() - An active Admin creates and an active Staff grades a new assignment
+[INFO ] 2023-07-27 09:34:56,337 BaseClass.the_response_status_code_should_be_created() - Assignment created successfully
+[INFO ] 2023-07-27 09:34:56,371 BaseClass.user_sets_authorization_to_no_auth() - Authorization is set as No Auth
+[INFO ] 2023-07-27 09:34:56,373 BaseClass.user_sets_a_post_request_to_valid_base_url_and_valid_end_point() - User sets a POST Request to valid base URL and valid end point
+[INFO ] 2023-07-27 09:34:57,219 BaseClass.user_sends_a_post_request_to_create_assignment_by_active_admin_and_grading_by_a_active_student_from_and() - An active Admin creates and an active Student grades a new assignment
+[INFO ] 2023-07-27 09:34:57,221 BaseClass.the_response_status_code_should_be_created() - Assignment created successfully
+[INFO ] 2023-07-27 09:34:57,258 BaseClass.user_sets_authorization_to_no_auth() - Authorization is set as No Auth
+[INFO ] 2023-07-27 09:34:57,259 BaseClass.user_sets_a_post_request_to_valid_base_url_and_valid_end_point() - User sets a POST Request to valid base URL and valid end point
+[INFO ] 2023-07-27 09:34:58,135 BaseClass.user_sends_a_post_request_to_create_and_grade_new_assignment_by_an_active_staff_from_and() - An Active Staff creates and grades a new assignment
+[INFO ] 2023-07-27 09:34:58,138 BaseClass.the_response_status_code_should_be_created() - Assignment created successfully
+[INFO ] 2023-07-27 09:34:58,177 BaseClass.user_sets_authorization_to_no_auth() - Authorization is set as No Auth
+[INFO ] 2023-07-27 09:34:58,178 BaseClass.user_sets_a_post_request_to_valid_base_url_and_valid_end_point() - User sets a POST Request to valid base URL and valid end point
+[INFO ] 2023-07-27 09:34:58,912 BaseClass.user_sends_a_post_request_to_create_assignment_by_active_staff_and_grading_by_an_active_admin_from_and() - An active Staff creates and an active Admin grades a new assignment
+[INFO ] 2023-07-27 09:34:58,913 BaseClass.the_response_status_code_should_be_created() - Assignment created successfully
+[INFO ] 2023-07-27 09:34:58,944 BaseClass.user_sets_authorization_to_no_auth() - Authorization is set as No Auth
+[INFO ] 2023-07-27 09:34:58,945 BaseClass.user_sets_a_post_request_to_valid_base_url_and_valid_end_point() - User sets a POST Request to valid base URL and valid end point
+[INFO ] 2023-07-27 09:34:59,628 BaseClass.user_sends_a_post_request_to_create_assignment_by_active_staff_and_grading_by_an_active_student_from_and() - An active Staff creates and an active Student grades a new assignment
+[INFO ] 2023-07-27 09:34:59,630 BaseClass.the_response_status_code_should_be_created() - Assignment created successfully
+[INFO ] 2023-07-27 09:34:59,655 BaseClass.user_sets_authorization_to_no_auth() - Authorization is set as No Auth
+[INFO ] 2023-07-27 09:34:59,657 BaseClass.user_sets_a_post_request_to_valid_base_url_and_valid_end_point() - User sets a POST Request to valid base URL and valid end point
+[INFO ] 2023-07-27 09:35:00,372 BaseClass.user_sends_a_post_request_to_create_and_grade_new_assignment_by_active_student_from_and() - An active Student creates and grades a new assignment
+[INFO ] 2023-07-27 09:35:00,375 BaseClass.the_response_status_code_should_be() - Student can not create or grade assignment
+[INFO ] 2023-07-27 09:35:00,396 BaseClass.user_sets_authorization_to_no_auth() - Authorization is set as No Auth
+[INFO ] 2023-07-27 09:35:00,398 BaseClass.user_sets_a_post_request_to_valid_base_url_and_valid_end_point() - User sets a POST Request to valid base URL and valid end point
+[INFO ] 2023-07-27 09:35:01,136 BaseClass.user_sends_a_post_request_to_create_new_assignment_by_active_student_and_grading_by_active_admin_from_and() - An active Student creates and an active Admin grades a new assignment. Student can not create assignment.
+[INFO ] 2023-07-27 09:35:01,138 BaseClass.the_response_status_code_should_be() - Student can not create or grade assignment
+[INFO ] 2023-07-27 09:35:01,159 BaseClass.user_sets_authorization_to_no_auth() - Authorization is set as No Auth
+[INFO ] 2023-07-27 09:35:01,160 BaseClass.user_sets_a_post_request_to_valid_base_url_and_valid_end_point() - User sets a POST Request to valid base URL and valid end point
+[INFO ] 2023-07-27 09:35:01,855 BaseClass.user_sends_a_post_request_to_create_new_assignment_by_active_student_and_garding_by_active_staff_from_and() - An active Student creates and an active Staff grades a new assignment,Student can not create assignment
+[INFO ] 2023-07-27 09:35:01,856 BaseClass.the_response_status_code_should_be() - Student can not create or grade assignment
+[INFO ] 2023-07-27 09:35:01,887 BaseClass.user_sets_authorization_to_no_auth() - Authorization is set as No Auth
+[INFO ] 2023-07-27 09:35:01,887 BaseClass.user_sets_a_post_request_to_valid_base_url_and_valid_end_point() - User sets a POST Request to valid base URL and valid end point
+[INFO ] 2023-07-27 09:35:02,566 BaseClass.user_create_a_post_request_to_create_and_grade_new_assignment_by_an_inactive_admin_from_and() - An inactive Admin creates and grades a new assignment, Inactive Admin user can not create or grade assignment
+[INFO ] 2023-07-27 09:35:02,567 BaseClass.the_response_status_code_should_be() - Student can not create or grade assignment
+[INFO ] 2023-07-27 09:35:02,586 BaseClass.user_sets_authorization_to_no_auth() - Authorization is set as No Auth
+[INFO ] 2023-07-27 09:35:02,587 BaseClass.user_sets_a_post_request_to_valid_base_url_and_valid_end_point() - User sets a POST Request to valid base URL and valid end point
+[INFO ] 2023-07-27 09:35:03,225 BaseClass.user_create_a_post_request_to_create_and_grade_new_assignment_by_an_inactive_staff_from_and() - An inactive Staff creates and grades a new assignment, Inactive staff user can not create or grade assignment
+[INFO ] 2023-07-27 09:35:03,226 BaseClass.the_response_status_code_should_be() - Student can not create or grade assignment
+[INFO ] 2023-07-27 09:35:03,246 BaseClass.user_sets_authorization_to_no_auth() - Authorization is set as No Auth
+[INFO ] 2023-07-27 09:35:03,247 BaseClass.user_sets_a_post_request_to_valid_base_url_and_valid_end_point() - User sets a POST Request to valid base URL and valid end point
+[INFO ] 2023-07-27 09:35:03,881 BaseClass.user_create_a_post_request_to_to_create_and_grades_a_new_assignment_without_a_mandatory_field_by_active_staff_from_and() - An active Staff creates and an inactive Student grades a new assignment. Assignment can not be created without mandatory field
+[INFO ] 2023-07-27 09:35:03,899 BaseClass.user_sets_authorization_to_no_auth() - Authorization is set as No Auth
+[INFO ] 2023-07-27 09:35:03,899 BaseClass.user_sets_a_post_request_to_valid_base_url_and_invalid_end_point() - User sets a POST Request to valid base URL and valid end point
+[INFO ] 2023-07-27 09:35:04,655 BaseClass.user_create_a_post_request_to_create_assignment_and_grade_assignment_by_an_active_admin_from_and() - User create a POST request to create assignment and grade assignment by an active Admin to invalid end point. Pls enter valid end point
+[INFO ] 2023-07-27 09:35:04,657 BaseClass.the_response_status_code_should_be() - Student can not create or grade assignment
+[INFO ] 2023-07-27 09:35:05,612 BaseClass.user_should_get_successfull_message_with_status_code() - Get Request to fetch all program data is successfull
+[INFO ] 2023-07-27 09:35:06,347 BaseClass.error_message_should_display_with_status_code() - Get Request unsuccessful
+[INFO ] 2023-07-27 09:35:08,737 BaseClass.user_sets_authorization_to_no_auth() - Authorization is set as No Auth
+[INFO ] 2023-07-27 09:35:08,960 BaseClass.user_write_request_with_valid_request_body_for_batch() - user sends Valid request body for batch Module
+[INFO ] 2023-07-27 09:35:09,043 BaseClass.server_unavailable_error_message_should_be_displayed_with_status_code() - put Request to fetch all batch data is successfull
+[INFO ] 2023-07-27 09:35:09,062 BaseClass.user_sets_authorization_to_no_auth() - Authorization is set as No Auth
+[INFO ] 2023-07-27 09:35:09,064 BaseClass.user_write_request_with_valid_payload() - user sends Valid payload body for batch Module
+[INFO ] 2023-07-27 09:35:09,135 BaseClass.not_found_validation_error_message_should_be_displayed_with_status_code() - put Request to fetch all batch data is successfull
+[INFO ] 2023-07-27 09:35:09,155 BaseClass.user_sets_authorization_to_no_auth() - Authorization is set as No Auth
+[INFO ] 2023-07-27 09:35:09,224 BaseClass.bad_request_error_message_should_be_displayed_with_status_code_for_batch() - put Request with empty payload for batch successfull
+[INFO ] 2023-07-27 09:35:09,242 BaseClass.user_sets_authorization_to_no_auth() - Authorization is set as No Auth
+[INFO ] 2023-07-27 09:35:09,307 BaseClass.request_should_be_successfull_with_status_code_for_batch() - put Request with empty payload unsuccessful
+[INFO ] 2023-07-27 09:35:09,326 BaseClass.user_sets_authorization_to_no_auth() - Authorization is set as No Auth
+[INFO ] 2023-07-27 09:35:09,393 BaseClass.batch_with_id_not_found_error_message_should_be_displayed_with_status_code() - put Request with empty payload for batch successfull
+[INFO ] 2023-07-27 09:35:09,416 BaseClass.user_sets_authorization_to_no_auth() - Authorization is set as No Auth
+[INFO ] 2023-07-27 09:35:09,495 BaseClass.batch_should_be_created_with_null_value_for_program_description_with_status_code() - put Request with empty payload unsuccessful
+[INFO ] 2023-07-27 09:35:09,514 BaseClass.user_sets_authorization_to_no_auth() - Authorization is set as No Auth
+[INFO ] 2023-07-27 09:35:09,569 BaseClass.validation_error_no_of_classes_is_needed_it_should_be_a_positive_number_should_be_displayed_with_bad_request() - put Request with empty payload for batch successfull
+[INFO ] 2023-07-27 09:35:09,593 BaseClass.user_sets_authorization_to_no_auth() - Authorization is set as No Auth
+[INFO ] 2023-07-27 09:35:09,757 BaseClass.statusCode200Validation() - Delete Request to delete single program by id is successful
+[INFO ] 2023-07-27 09:35:09,757 BaseClass.request_should_be_successfull_with_status_code_and_get_the_message() - Delete Request to delete program by id is successful
+[INFO ] 2023-07-27 09:35:09,778 BaseClass.user_sets_authorization_to_no_auth() - Authorization is set as No Auth
+[INFO ] 2023-07-27 09:35:09,897 BaseClass.user_sets_authorization_to_no_auth() - Authorization is set as No Auth
+[INFO ] 2023-07-27 09:35:10,061 BaseClass.statusCode200Validation() - Delete Request to delete single program by name is successful
+[INFO ] 2023-07-27 09:35:10,062 BaseClass.success_message_with_status_code_and_receive_message() - Delete Request to delete program by name is successful
+[INFO ] 2023-07-27 09:35:10,082 BaseClass.user_sets_authorization_to_no_auth() - Authorization is set as No Auth
+[INFO ] 2023-07-27 09:35:10,170 BaseClass.user_sets_authorization_to_no_auth() - Authorization is set as No Auth
+[INFO ] 2023-07-27 09:35:10,262 BaseClass.user_sets_authorization_to_no_auth() - Authorization is set as No Auth
+[INFO ] 2023-07-27 09:35:10,369 BaseClass.user_sets_authorization_to_no_auth() - Authorization is set as No Auth
+[INFO ] 2023-07-27 09:35:10,370 BaseClass.user_write_request_for_program_module_with_valid_base_url() - user sends Valid Base URL for Program Module
+[INFO ] 2023-07-27 09:35:10,593 BaseClass.request_should_be_successfully_displayed_on_console_with_status_code_for_get_all_programs() - Get Request to fetch all program data is successfull
+[INFO ] 2023-07-27 09:35:10,622 BaseClass.user_sets_authorization_to_no_auth() - Authorization is set as No Auth
+[INFO ] 2023-07-27 09:35:10,697 BaseClass.not_found_error_message_should_be_displayed_on_console_with_status_code_for_get_all_programs() - Status code 404 received for GET all program with invalid URL
+[INFO ] 2023-07-27 09:35:10,716 BaseClass.user_sets_authorization_to_no_auth() - Authorization is set as No Auth
+[INFO ] 2023-07-27 09:35:10,853 BaseClass.user_sets_authorization_to_no_auth() - Authorization is set as No Auth
+[INFO ] 2023-07-27 09:35:10,951 BaseClass.bad_request_error_message_should_be_displayed_on_console_with_status_code_for_get_single_program() - Get Request unsuccessful
+[INFO ] 2023-07-27 09:35:10,984 BaseClass.user_sets_authorization_to_no_auth() - Authorization is set as No Auth
+[INFO ] 2023-07-27 09:35:10,985 BaseClass.user_sets_request_for_program_module_with_valid_base_url_and_valid_request_body() - Request set for Program module with valid base URL and valid request body
+[INFO ] 2023-07-27 09:35:11,151 BaseClass.user_send_post_request_with_all_data_fields_from_and() - Program Module Post Request sent with all fields 
+[INFO ] 2023-07-27 09:35:11,152 BaseClass.user_gets_success_message_with_status_code_in_response_body_with_message_program_created() - Program Successfully created
+[INFO ] 2023-07-27 09:35:11,175 BaseClass.user_sets_authorization_to_no_auth() - Authorization is set as No Auth
+[INFO ] 2023-07-27 09:35:11,176 BaseClass.user_sets_request_for_program_module_with_valid_base_url_and_valid_request_body() - Request set for Program module with valid base URL and valid request body
+[INFO ] 2023-07-27 09:35:11,351 BaseClass.user_send_post_request_with_mandatory_data_fields_from_and() - Program Module Post Request sent with mandatory fields only
+[INFO ] 2023-07-27 09:35:11,352 BaseClass.user_gets_success_message_with_status_code_in_response_body_with_message_program_created() - Program Successfully created
+[INFO ] 2023-07-27 09:35:11,372 BaseClass.user_sets_authorization_to_no_auth() - Authorization is set as No Auth
+[INFO ] 2023-07-27 09:35:11,373 BaseClass.user_sets_request_for_program_module_with_invalid_base_url_and_valid_request_body() - Request set for Program module with invalid base URL and valid data
+[INFO ] 2023-07-27 09:35:11,542 BaseClass.user_sends_post_request_with_invalid_url_and_valid_data_from_and_row_number() - Valid request body sent
+[INFO ] 2023-07-27 09:35:11,543 BaseClass.user_gets_bad_request_error_message_with_status_code_in_response_body_with_message_invalid_url() - Bad request error message received with 404
+[INFO ] 2023-07-27 09:35:11,561 BaseClass.user_sets_authorization_to_no_auth() - Authorization is set as No Auth
+[INFO ] 2023-07-27 09:35:11,562 BaseClass.user_sets_request_for_program_module_with_valid_base_url_and_blank_paramertes_in_request_body() - Request set for Program module with valid base URL and valid data
+[INFO ] 2023-07-27 09:35:11,629 BaseClass.user_gets_bad_request_error_message_with_status_code_in_response_body_with_message_enter_mandatory_fields() - Bad request error message received with 400
+[INFO ] 2023-07-27 09:35:11,653 BaseClass.user_sets_authorization_to_no_auth() - Authorization is set as No Auth
+[INFO ] 2023-07-27 09:35:11,653 BaseClass.user_sets_request_for_program_module_with_valid_base_url_and_blank_paramertes_in_request_body() - Request set for Program module with valid base URL and valid data
+[INFO ] 2023-07-27 09:35:11,716 BaseClass.user_gets_bad_request_error_message_with_status_code_in_response_body_with_message_enter_mandatory_fields() - Bad request error message received with 400
+[INFO ] 2023-07-27 09:35:11,733 BaseClass.user_sets_authorization_to_no_auth() - Authorization is set as No Auth
+[INFO ] 2023-07-27 09:35:11,734 BaseClass.user_sets_request_for_program_module_with_valid_base_url_and_blank_value_in_program_name_field() - Request for Program module with valid base URL and Blank value in programName field
+[INFO ] 2023-07-27 09:35:11,903 BaseClass.user_sends_post_request_with_blank_values_in_program_name_field_in_request_body_from_and_rownumber() - Request sent for Program module: Post with Null Values in Program Name
+[INFO ] 2023-07-27 09:35:11,904 BaseClass.user_gets_bad_request_error_message_with_status_code_in_response_body_with_message_enter_mandatory_fields() - Statuscode received400. Error to be reported
+[INFO ] 2023-07-27 09:35:11,921 BaseClass.user_sets_authorization_to_no_auth() - Authorization is set as No Auth
+[INFO ] 2023-07-27 09:35:11,921 BaseClass.user_sets_request_for_program_module_with_valid_base_url_and_blank_value_in_program_description_field() - Request for Program module with valid base URL and Blank value in programName field
+[INFO ] 2023-07-27 09:35:12,092 BaseClass.user_sends_post_request_with_blank_values_in_program_description_field_in_request_body_from_and_rownumber() - Request sent for Program module: Post with Null Values in Program Description
+[INFO ] 2023-07-27 09:35:12,095 BaseClass.user_gets_success_message_with_status_code_in_response_body_with_message_program_created() - Program Successfully created
+[INFO ] 2023-07-27 09:35:12,112 BaseClass.user_sets_authorization_to_no_auth() - Authorization is set as No Auth
+[INFO ] 2023-07-27 09:35:12,112 BaseClass.user_sets_request_for_program_module_with_valid_base_url_and_blank_value_in_program_status_field() - Request for Program module with valid base URL and Blank value in programStatus field
+[INFO ] 2023-07-27 09:35:12,276 BaseClass.user_sends_post_request_with_blank_values_in_program_status_field_in_request_body_from_and_rownumber() - Request sent for Program module: Post with Null Values in Program Status
+[INFO ] 2023-07-27 09:35:12,277 BaseClass.user_gets_Internal_Server_Error_message_with_status_code_in_response_body_with_message_enter_mandatory_fields() - Statuscode received500. Error to be reported
+[INFO ] 2023-07-27 09:35:12,297 BaseClass.user_sets_authorization_to_no_auth() - Authorization is set as No Auth
+[INFO ] 2023-07-27 09:35:12,298 BaseClass.user_sets_request_for_program_module_with_valid_base_url_and_null_paramertes_in_request_body() - Request set for Program module with valid base URL and NULL paramertes in request body
+[INFO ] 2023-07-27 09:35:12,378 BaseClass.user_gets_Internal_Server_Error_message_with_status_code_in_response_body_with_message_enter_mandatory_fields() - Bad request error message received with 500
+[INFO ] 2023-07-27 09:35:12,396 BaseClass.user_sets_authorization_to_no_auth() - Authorization is set as No Auth
+[INFO ] 2023-07-27 09:35:12,397 BaseClass.user_sets_request_for_program_module_with_valid_base_url_and_null_paramertes_in_request_body() - Request set for Program module with valid base URL and NULL paramertes in request body
+[INFO ] 2023-07-27 09:35:12,454 BaseClass.user_gets_Internal_Server_Error_message_with_status_code_in_response_body_with_message_enter_mandatory_fields() - Bad request error message received with 500
+[INFO ] 2023-07-27 09:35:12,471 BaseClass.user_sets_authorization_to_no_auth() - Authorization is set as No Auth
+[INFO ] 2023-07-27 09:35:12,472 BaseClass.user_sets_request_for_program_module_with_valid_base_url_and_null_value_in_program_name_field() - Request for Program module with valid base URL and NULL paramertes in request body
+[INFO ] 2023-07-27 09:35:12,619 BaseClass.user_sends_post_request_with_null_values_in_programName_field_in_request_body_from_and_rownumber() - Request for Program Module : Post with Null Values in Program Name
+[INFO ] 2023-07-27 09:35:12,620 BaseClass.user_gets_Internal_Server_Error_message_with_status_code_in_response_body_with_message_enter_mandatory_fields() - Bad request error message received with 500
+[INFO ] 2023-07-27 09:35:12,642 BaseClass.user_sets_authorization_to_no_auth() - Authorization is set as No Auth
+[INFO ] 2023-07-27 09:35:12,642 BaseClass.user_sets_request_for_program_module_with_valid_base_url_and_null_value_in_program_description_field() - Request for Program module with valid base URL and NULL paramertes in request body
+[INFO ] 2023-07-27 09:35:12,755 BaseClass.user_sends_post_request_with_null_values_in_program_description_field_in_request_body_from_and_rownumber() - Request for Program Module : Post with Null Values in Program Description
+[INFO ] 2023-07-27 09:35:12,756 BaseClass.user_gets_success_message_with_status_code_in_response_body_with_message_program_created() - Program Successfully created
+[INFO ] 2023-07-27 09:35:12,774 BaseClass.user_sets_authorization_to_no_auth() - Authorization is set as No Auth
+[INFO ] 2023-07-27 09:35:12,775 BaseClass.user_sets_request_for_program_module_with_valid_base_url_and_null_value_in_program_status_field() - Request for Program module with valid base URL and NULL paramertes in request body
+[INFO ] 2023-07-27 09:35:12,889 BaseClass.user_sends_post_request_with_null_values_in_program_status_field_in_request_body_from_and_rownumber() - Request for Program Module : Post with Null Values in Program Status
+[INFO ] 2023-07-27 09:35:12,890 BaseClass.user_gets_Internal_Server_Error_message_with_status_code_in_response_body_with_message_enter_mandatory_fields() - Bad request error message received with 500
+[INFO ] 2023-07-27 09:35:12,915 BaseClass.user_sets_authorization_to_no_auth() - Authorization is set as No Auth
+[INFO ] 2023-07-27 09:35:12,917 BaseClass.user_sets_request_for_program_module_with_valid_base_url_and_without_one_mandatory_field() - Request for Program module with valid base URL and NULL paramertes in request body
+[INFO ] 2023-07-27 09:35:13,075 BaseClass.user_sends_post_request_without_program_name_field_in_request_body_from_and_rownumber() - Post Request for Program Module with No Program Name 
+[INFO ] 2023-07-27 09:35:13,076 BaseClass.user_gets_bad_request_error_message_with_status_code_in_response_body_with_message_enter_mandatory_fields() - Statuscode received400. Error to be reported
+[INFO ] 2023-07-27 09:35:13,092 BaseClass.user_sets_authorization_to_no_auth() - Authorization is set as No Auth
+[INFO ] 2023-07-27 09:35:13,093 BaseClass.user_sets_request_for_program_module_with_valid_base_url_and_without_one_mandatory_field() - Request for Program module with valid base URL and NULL paramertes in request body
+[INFO ] 2023-07-27 09:35:13,258 BaseClass.user_sends_post_request_without_program_description_field_in_request_body_from_and_rownumber() - Post Request for Program Module with No Program Description 
+[INFO ] 2023-07-27 09:35:13,259 BaseClass.user_gets_success_message_with_status_code_in_response_body_with_message_program_created() - Program Successfully created
+[INFO ] 2023-07-27 09:35:13,276 BaseClass.user_sets_authorization_to_no_auth() - Authorization is set as No Auth
+[INFO ] 2023-07-27 09:35:13,277 BaseClass.user_sets_request_for_program_module_with_valid_base_url_and_without_one_mandatory_field() - Request for Program module with valid base URL and NULL paramertes in request body
+[INFO ] 2023-07-27 09:35:13,461 BaseClass.user_sends_post_request_without_program_status_field_in_request_body_from_and_rownumber() - Post Request for Program Module with No Program Status 
+[INFO ] 2023-07-27 09:35:13,462 BaseClass.user_gets_bad_request_error_message_with_status_code_in_response_body_with_message_enter_mandatory_fields() - Statuscode received500. Error to be reported
+[INFO ] 2023-07-27 09:35:13,487 BaseClass.user_sets_authorization_to_no_auth() - Authorization is set as No Auth
+[INFO ] 2023-07-27 09:35:13,488 BaseClass.user_sets_request_for_program_module_with_base_url_with_valid_endpoint_and_valid_request_body() - Request set for Program module with valid base URL and valid data
+[INFO ] 2023-07-27 09:35:13,654 BaseClass.createPostRequest() - Common method for POST Request is done
+[INFO ] 2023-07-27 09:35:13,670 BaseClass.user_send_post_request_with_data_from_and() - Post Request sent with valid request body
+[INFO ] 2023-07-27 09:35:13,671 BaseClass.user_should_get_status_code_for_post_request_with_valid_endpoint_and_valid_request_body() - Post Request Successful
+[INFO ] 2023-07-27 09:35:13,687 BaseClass.user_sets_authorization_to_no_auth() - Authorization is set as No Auth
+[INFO ] 2023-07-27 09:35:13,690 BaseClass.user_sets_valid_url_with_valid_payload() - User sets valid URL with mandatory Payload
+[INFO ] 2023-07-27 09:35:13,752 BaseClass.user_sends_put_request_with_valid_url() - User sends PUT request with valid URL
+[INFO ] 2023-07-27 09:35:13,757 BaseClass.request_should_be_successfull_with_status_code_and_updated_response_body() - Request is successfull with status code  200
+[INFO ] 2023-07-27 09:35:13,774 BaseClass.user_sets_authorization_to_no_auth() - Authorization is set as No Auth
+[INFO ] 2023-07-27 09:35:13,776 BaseClass.user_sets_valid_url_with_invalid_program_id_and_mandatory_payload() - User sets valid URL with invalid program id and mandatory Payload
+[INFO ] 2023-07-27 09:35:13,841 BaseClass.user_sends_put_request_with_invalid_program_id() - User sends PUT request with invalid program id
+[INFO ] 2023-07-27 09:35:13,842 BaseClass.user_should_get_an_error_message_with_status_code_not_found_and_boolean_success_details() - User gets an error message with status code    404
+[INFO ] 2023-07-27 09:35:13,859 BaseClass.user_sets_authorization_to_no_auth() - Authorization is set as No Auth
+[INFO ] 2023-07-27 09:35:13,862 BaseClass.user_sets_valid_url_with_valid_program_id_and_without_mandatory_fields_in_payload() - )User sets valid URL with valid program id and without mandatory fields(programStatus) in Payload
+[INFO ] 2023-07-27 09:35:13,921 BaseClass.user_sends_put_request_with_valid_url() - User sends PUT request with valid URL
+[INFO ] 2023-07-27 09:35:13,922 BaseClass.user_should_get_an_error_message_with_status_code_bad_request_and_boolean_success_details() - Actual Statuscode received500 Error to be reported
+[INFO ] 2023-07-27 09:35:13,939 BaseClass.user_sets_authorization_to_no_auth() - Authorization is set as No Auth
+[INFO ] 2023-07-27 09:35:13,941 BaseClass.user_sets_valid_url_with_valid_program_id_and_with_empty_value_in_mandatory_fields_in_payload() - User sets valid URL with valid program id and with empty value in mandatory fields in Payload
+[INFO ] 2023-07-27 09:35:14,012 BaseClass.user_sends_put_request_with_valid_url() - User sends PUT request with valid URL
+[INFO ] 2023-07-27 09:35:14,012 BaseClass.user_should_get_an_error_message_with_status_code_bad_request_and_boolean_success_details() - Actual Statuscode received500 Error to be reported
+[INFO ] 2023-07-27 09:35:14,033 BaseClass.user_sets_authorization_to_no_auth() - Authorization is set as No Auth
+[INFO ] 2023-07-27 09:35:14,035 BaseClass.user_sets_valid_url_with_only_mandatory_payload() - User sets valid URL with only mandatory Payload
+[INFO ] 2023-07-27 09:35:14,111 BaseClass.user_sends_put_request_with_valid_url() - User sends PUT request with valid URL
+[INFO ] 2023-07-27 09:35:14,112 BaseClass.request_should_be_successfull_with_status_code_and_updated_response_body() - Request is successfull with status code  200
+[INFO ] 2023-07-27 09:35:14,132 BaseClass.user_sets_authorization_to_no_auth() - Authorization is set as No Auth
+[INFO ] 2023-07-27 09:35:14,135 BaseClass.user_sets_valid_url_with_valid_program_id_and_empty_payload() - User sets valid URL with valid program id and empty payload
+[INFO ] 2023-07-27 09:35:14,198 BaseClass.user_sends_put_request_with_valid_url() - User sends PUT request with valid URL
+[INFO ] 2023-07-27 09:35:14,200 BaseClass.user_should_not_able_to_update_the_program() - User gets error message with status code  500
+[INFO ] 2023-07-27 09:35:14,218 BaseClass.user_sets_authorization_to_no_auth() - Authorization is set as No Auth
+[INFO ] 2023-07-27 09:35:14,220 BaseClass.user_sets_invalid_url_with_valid_mandatory_payload() - User sets invalid URL with valid mandatory Payload
+[INFO ] 2023-07-27 09:35:14,316 BaseClass.user_sends_put_request_with_invalid_url() - User sends PUT request with invalid URL
+[INFO ] 2023-07-27 09:35:14,317 BaseClass.user_should_get_an_error_message() - User gets an error message with status code  404
+[INFO ] 2023-07-27 09:35:14,337 BaseClass.user_sets_authorization_to_no_auth() - Authorization is set as No Auth
+[INFO ] 2023-07-27 09:35:14,339 BaseClass.user_sets_valid_url_with_valid_payload() - User sets valid URL with mandatory Payload
+[INFO ] 2023-07-27 09:35:14,399 BaseClass.user_sends_put_request_with_valid_url() - User sends PUT request with valid URL
+[INFO ] 2023-07-27 09:35:14,401 BaseClass.request_should_be_successfull_with_status_code_and_updated_response_body() - Request is successfull with status code  200
+[INFO ] 2023-07-27 09:35:14,731 BaseClass.schema_should_be_validated() - PUT Request schema validation is successful
+[INFO ] 2023-07-27 09:35:14,751 BaseClass.user_sets_authorization_to_no_auth() - Authorization is set as No Auth
+[INFO ] 2023-07-27 09:35:14,817 BaseClass.user_set_request_for_program_module_with_valid_base_url_and_valid_request_body_by_valid_program_name() - --------PUT Request with Program name is set ------------------
+[INFO ] 2023-07-27 09:35:15,121 BaseClass.when_user_sends_put_request_with_all_fields_from_and() - Program Module PUT Request by Program Name sent with all fields 
+[INFO ] 2023-07-27 09:35:15,122 BaseClass.request_should_be_successfull_with_status_code_and_updated_response_body() - Request is successfull with status code  200
+[INFO ] 2023-07-27 09:35:15,149 BaseClass.user_sets_authorization_to_no_auth() - Authorization is set as No Auth
+[INFO ] 2023-07-27 09:35:15,209 BaseClass.user_set_request_for_program_module_with_valid_base_url_and_valid_request_body_by_valid_program_name() - --------PUT Request with Program name is set ------------------
+[INFO ] 2023-07-27 09:35:15,452 BaseClass.when_user_sends_put_request_with_only_mandatory_fields_from_and() - Program Module PUT Request by Program Name sent with ONLY mandatory fields 
+[INFO ] 2023-07-27 09:35:15,452 BaseClass.request_should_be_successfull_with_status_code_and_updated_response_body() - Request is successfull with status code  200
+[INFO ] 2023-07-27 09:35:15,469 BaseClass.user_sets_authorization_to_no_auth() - Authorization is set as No Auth
+[INFO ] 2023-07-27 09:35:15,532 BaseClass.user_set_put_request_for_program_module_by_program_name_with_valid_base_url_and_without_all_mandatory_fields_in_request_body() - --------PUT Request with Program name is set ------------------
+[INFO ] 2023-07-27 09:35:15,756 BaseClass.when_user_sends_put_request_without_mandatory_fields_from_and() - Program Module PUT Request by Program Name sent with ONLY mandatory fields 
+[INFO ] 2023-07-27 09:35:15,757 BaseClass.request_should_get_error_message_with_status_code_bad_request() - Actual Statuscode received500 Error to be reported
+[INFO ] 2023-07-27 09:35:15,783 BaseClass.user_sets_authorization_to_no_auth() - Authorization is set as No Auth
+[INFO ] 2023-07-27 09:35:15,783 BaseClass.user_set_request_for_program_module_with_valid_base_url_and_invalid_program_name() - --------PUT Request with Invalid Program name is set ------------------
+[INFO ] 2023-07-27 09:35:16,009 BaseClass.User_sends_PUT_request_with_invalid_program_name_and_mandatory_fields_from() - Program Module PUT Request by Program Name sent with all fields 
+[INFO ] 2023-07-27 09:35:16,009 BaseClass.request_should_get_error_message_with_status_code_not_found() - Not Found error message received with 404
+[INFO ] 2023-07-27 09:35:16,026 BaseClass.user_sets_authorization_to_no_auth() - Authorization is set as No Auth
+[INFO ] 2023-07-27 09:35:16,085 BaseClass.user_set_request_for_program_module_with_valid_base_url_and_valid_request_body_by_valid_program_name() - --------PUT Request with Program name is set ------------------
+[INFO ] 2023-07-27 09:35:16,299 BaseClass.when_user_sends_put_request_with_all_fields_from_and() - Program Module PUT Request by Program Name sent with all fields 
+[INFO ] 2023-07-27 09:35:16,300 BaseClass.request_should_be_successfull_with_status_code_and_updated_response_body() - Request is successfull with status code  200
+[INFO ] 2023-07-27 09:35:16,360 BaseClass.schema_should_be_validated() - PUT Request schema validation is successful
+[INFO ] 2023-07-27 09:35:16,384 BaseClass.user_sets_authorization_to_no_auth() - Authorization is set as No Auth
+[INFO ] 2023-07-27 09:35:16,448 BaseClass.user_set_request_for_program_module_with_valid_base_url_and_valid_request_body_by_valid_program_name() - --------PUT Request with Program name is set ------------------
+[INFO ] 2023-07-27 09:35:16,656 BaseClass.when_user_sends_put_request_with_all_fields_from_and() - Program Module PUT Request by Program Name sent with all fields 
+[INFO ] 2023-07-27 09:35:16,657 BaseClass.request_should_get_error_message_with_status_code_bad_request() - Bad request error message received with 400
+[INFO ] 2023-07-27 09:35:16,678 BaseClass.user_sets_authorization_to_no_auth() - Authorization is set as No Auth
+[INFO ] 2023-07-27 09:35:17,004 BaseClass.the_response_code_should_be_ok_and_the_response_body_should_contain_a_list_of_all_users() - Get Request to fetch All Users is successfull
+[INFO ] 2023-07-27 09:35:17,034 BaseClass.user_sets_authorization_to_no_auth() - Authorization is set as No Auth
+[INFO ] 2023-07-27 09:35:17,200 BaseClass.the_response_code_should_be() - Get Request to fetch All Users is unsuccessfull
+[INFO ] 2023-07-27 09:35:17,217 BaseClass.user_sets_authorization_to_no_auth() - Authorization is set as No Auth
+[INFO ] 2023-07-27 09:35:17,309 BaseClass.the_response_code_should_be() - Get Request to fetch All Users is unsuccessfull
+[INFO ] 2023-07-27 09:35:17,326 BaseClass.user_sets_authorization_to_no_auth() - Authorization is set as No Auth
+[INFO ] 2023-07-27 09:35:17,410 BaseClass.user_sets_authorization_to_no_auth() - Authorization is set as No Auth
+[INFO ] 2023-07-27 09:35:17,478 BaseClass.user_sets_authorization_to_no_auth() - Authorization is set as No Auth
+[WARN ] 2023-07-27 09:35:17,539 BaseClass.the_response_code_should_be_ok_and_the_response_body_should_contain_a_list_of_all_staff_members() - Expected status code 200, but got 404, Error is being reported 404
+[INFO ] 2023-07-27 09:35:17,554 BaseClass.user_sets_authorization_to_no_auth() - Authorization is set as No Auth
+[INFO ] 2023-07-27 09:35:19,940 BaseClass.the_response_code_should_be_ok_and_the_response_body_should_contain_list_of_all_users_with_roles() - Get Request to fetch All Staff is successfull
+[INFO ] 2023-07-27 09:35:19,962 BaseClass.user_sets_authorization_to_no_auth() - Authorization is set as No Auth
+[INFO ] 2023-07-27 09:35:20,031 BaseClass.the_response_code_should_be_bad_request() - Get Request to fetch All User with roles is unsuccessfull

@@ -1,0 +1,1 @@
+{"uuid":"20af7aa3-d943-40f1-b0cf-0ce2b10c1736","name":"Scenario: Verify GET request to retrieve all batch data in valid LMS API and data size for all batches fetched","children":["61cdc54b-54c5-4c0f-ac6c-0eb2ef144129"],"befores":[],"afters":[],"start":1690464904684,"stop":1690464906129}
